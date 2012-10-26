@@ -25,7 +25,7 @@
         xmlns:date="http://exslt.org/dates-and-times"
         xmlns:uuid="java:java.util.UUID">
 
-	<xsl:import href="date.add.template.xsl" />
+	<xsl:import href="libs/date.add.template.xsl" />
 
  	<xsl:output method="xml" indent="yes" encoding="UTF-8" />
 
